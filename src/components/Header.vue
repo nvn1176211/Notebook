@@ -94,6 +94,7 @@ function settings() {
 <style scoped>
 .nav-bar {
   position: fixed;
+  left: 0;
   width: 100%;
   background-color: white;
   padding-top: 5px;

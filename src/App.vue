@@ -8,6 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <HeaderComponent />
   <div class="container pt-10">
+    <RouterLink to="/tag" class="text-decoration-none">Tag Creation</RouterLink>
     <RouterView />
   </div>
 </template>

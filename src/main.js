@@ -1,3 +1,4 @@
+import * as env from "./env.js"; window.env = env;
 import './assets/main.css'
 
 import { createApp } from 'vue'
